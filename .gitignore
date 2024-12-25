@@ -1,2 +1,10 @@
 *.o 
 *.exe 
+.vs/
+RepoB/
+vpri.sln
+vpri.vcxproj
+vpri.vcxproj.filters
+vpri.vcxproj.user
+vpri/
+x64/
